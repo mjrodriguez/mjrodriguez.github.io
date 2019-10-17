@@ -23,3 +23,6 @@ I am currently a third year Ph.D. student in the [Department of Applied Mathemat
 
 ### Honors and Awards
 - Eugene Cota-Robles Fellow, University of California, Santa Cruz, 2017-2022
+
+### Outreach and Volunteer
+- Math and Physics Tutor, Barrio Logan College Institute, 2013-2017
