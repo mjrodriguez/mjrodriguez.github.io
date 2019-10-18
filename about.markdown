@@ -26,3 +26,4 @@ I am currently a third year Ph.D. student in the [Department of Applied Mathemat
 
 ### Outreach and Volunteer
 - Math and Physics Tutor, Barrio Logan College Institute, 2013-2017
+- Math Tutor, King-Chavez Academy Middle School, 2007-2013
