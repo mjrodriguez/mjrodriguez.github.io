@@ -37,7 +37,7 @@ header_pages:
   - about.markdown
   - research.markdown
   - teaching.markdown
-  # - blog.markdown
+  - blog.markdown
 
 # Build settings
 theme: minima
