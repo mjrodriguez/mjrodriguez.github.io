@@ -12,9 +12,9 @@ I am currently a third year Ph.D. student in the [Department of Applied Mathemat
 - Mechanical and Aerospace Engineering, B.S. University of California, Davis, Completed: 2013
 
 ### Research Positions
-- NSF Mathematical Sciences Graduate Internship, Lawrence Livermore National Laboratory, Summer 2019
-- Graduate Intern, NASA Langley, Summer 2018
-- Graduate Intern, Jet Propulsion Lab, Summer 2015
+- NSF Graduate Intern, Lawrence Livermore National Laboratory, Summer 2019, Mentor: [Will Pazner](https://pazner.github.io)
+- Graduate Intern, NASA Langley, Summer 2018, Mentor: Kyle Thompson
+- Graduate Intern, Jet Propulsion Lab, Summer 2015, Mentor: Daniel Wernicke
 
 ### Teaching Positions
 - Teaching Assistant, AM 129, UC Santa Cruz, Fall 2019
@@ -22,8 +22,9 @@ I am currently a third year Ph.D. student in the [Department of Applied Mathemat
 - Teaching Assistant, Math 141, SDSU, Fall Spring 2015
 
 ### Honors and Awards
+- National Science Foundation: Mathematical Sciences Graduate Internship, Summer 2019
 - Eugene Cota-Robles Fellow, University of California, Santa Cruz, 2017-2022
 
 ### Outreach and Volunteer
-- Math and Physics Tutor, Barrio Logan College Institute, 2013-2017
-- Math Tutor, King-Chavez Academy Middle School, 2007-2013
+- Math and Physics Tutor, Barrio Logan College Institute, San Diego, 2013-2017
+- Math Tutor, King-Chavez Academy Middle School, San Diego, 2007-2013

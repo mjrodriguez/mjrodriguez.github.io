@@ -5,13 +5,14 @@ permalink: /research/
 ---
 
 ## Research Topics
+- Computational Fluid Dynamics
 - Discontinuous Galerkin methods
 - Preconditioning techniques
 - Implicit time integration schemes
 - Gaussian Processes
 
 ## Publications
-- Still working on it
+- Still working on it...
 
 ## Presentations
 - "Line-Based Discontinuous Galerkin Method on GPUs", Lawrence Livermore National Lab, MFEM Group Meeting, Sept. 2019
