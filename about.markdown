@@ -17,14 +17,23 @@ I am currently a third year Ph.D. student in the [Department of Applied Mathemat
 - Graduate Intern, Jet Propulsion Lab, Summer 2015, Mentor: Daniel Wernicke
 
 ### Teaching Positions
-- Teaching Assistant, AM 129, UC Santa Cruz, Fall 2019
-- Teaching Assistant, Math 151, SDSU, Fall 2015-Spring 2017
-- Teaching Assistant, Math 141, SDSU, Fall Spring 2015
+- Teaching Assistant, AM 129: Foundations of Scientific Computing, UC Santa Cruz, Fall 2019
+- Teaching Assistant, Math 151: Calculus 2, SDSU, Fall 2015-Spring 2017
+- Teaching Assistant, Math 141: Pre-Calculus, SDSU, Fall Spring 2015
+
+### Skills
+- Languages: C, C++, Fortran, Python, Matlab.
+- Scientific Computing: Cuda, OpenMP, MPI, *Eigen* Linear Algebra Package, LAPACK, BLAS, NumPy.
+- Version Control: Git.
 
 ### Honors and Awards
 - National Science Foundation: Mathematical Sciences Graduate Internship, Summer 2019
 - Eugene Cota-Robles Fellow, University of California, Santa Cruz, 2017-2022
+- Omar George Mahshi Memorial Scholarship, University of California, Davis, 2010-2011
 
 ### Outreach and Volunteer
+- STEM Career Day Presenter, Ceiba College Preparatory Academy, Watsonville, 9 March 2018
 - Math and Physics Tutor, Barrio Logan College Institute, San Diego, 2013-2017
 - Math Tutor, King-Chavez Academy Middle School, San Diego, 2007-2013
+
+Last updated: 8 November 2019
