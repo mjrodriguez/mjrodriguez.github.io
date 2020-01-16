@@ -13,7 +13,7 @@ permalink: /teaching/
 I am currently TAing for AM 10 and leading the following discussion sections:
 - Section A: Monday 8-10pm
 - Section E: Thursday 7-9pm
-- Building: Social Sciences 135
+- Building: Social Sciences 1, Room 135
 
 I will also be hosting office hours:
 - Monday 1-2pm
