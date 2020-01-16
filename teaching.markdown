@@ -11,14 +11,17 @@ permalink: /teaching/
 #### AM 10: Mathematical Methods for Engineers I (Intro to Linear Algebra)
 
 I am currently TAing for AM 10 and leading the following discussion sections:
-- Section A: Monday 8-10pm in Social Sciences 135
-- Section E: Thursday 7-9pm in Social Sciences 135
+- Section A: Monday 8-10pm
+- Section E: Thursday 7-9pm
+- Building: Social Sciences 135
 
 I will also be hosting office hours:
-- Monday 1-2pm in Baskin 359B
-- Thursday 1:30pm-2:30pm in Baskin 359B
+- Monday 1-2pm
+- Thursday 1:30pm-2:30pm
+- Building: Baskin 359B
+- Email: mrodrig6 at ucsc dot edu
 
-If you have any questions please feel free to email me at mrodrig6 at ucsc dot edu. The class syllabus and material can be accessed in the Canvas page.
+If you have any questions please feel free to email me. The class syllabus and material can be accessed in the Canvas page.
 
 ### Fall 2019
 #### AM 129/209: Foundations of Scientific Computing
