@@ -6,12 +6,26 @@ permalink: /teaching/
 
 
 ## UC Santa Cruz
+
+### Winter 2019
+#### AM 10: Intro to Linear Algebra
+
+I am currently TAing for AM 10 and leading the following discussion sections:
+- Section A: Monday 8-10pm in Social Sciences 135
+- Section E: Thursday 7-9pm in Social Sciences 135
+
+I will also be hosting office hours:
+- Monday 1-2pm in Baskin 359B
+- Thursday 1:30pm-2:30pm in Baskin 359B
+
+If you have any questions please feel free to email me at mrodrig6 at ucsc dot edu. The class syllabus and material can be accessed in the Canvas page.
+
 ### Fall 2019
 #### AM 129/209: Foundations of Scientific Computing
 
-I am currently TAing the class [AM 129](https://people.ucsc.edu/~dlee79/2019/fall/am129_209/index.html) under the supervision of Dongwook Lee.
+Fall 2019 I was a TA for [AM 129](https://people.ucsc.edu/~dlee79/2019/fall/am129_209/index.html) under the supervision of Dongwook Lee.
 I will be hosting office hours weekly in:
-- OH: 2pm-4pm
+- OH: Monday 2pm-4pm
 - Building: Baskin 105, Linux Lab
 - Email: mrodrig6@ucsc.edu
 
