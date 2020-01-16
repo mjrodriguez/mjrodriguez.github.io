@@ -8,7 +8,7 @@ permalink: /teaching/
 ## UC Santa Cruz
 
 ### Winter 2019
-#### AM 10: Intro to Linear Algebra
+#### AM 10: Mathematical Methods for Engineers I (Intro to Linear Algebra)
 
 I am currently TAing for AM 10 and leading the following discussion sections:
 - Section A: Monday 8-10pm in Social Sciences 135
