@@ -10,7 +10,7 @@ permalink: /teaching/
 ### Winter 2019
 #### AM 10: Mathematical Methods for Engineers I (Intro to Linear Algebra)
 
-I am currently TAing for AM 10 and leading the following discussion sections:
+I am currently TAing for [AM 10](https://canvas.ucsc.edu/courses/29489) and leading the following discussion sections:
 - Section A: Monday 8-10pm
 - Section E: Thursday 7-9pm
 - Building: Social Sciences 1, Room 135
