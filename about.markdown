@@ -17,6 +17,7 @@ I am currently a third year Ph.D. student in the [Department of Applied Mathemat
 - Graduate Intern, Jet Propulsion Lab, Summer 2015, Mentor: Daniel Wernicke
 
 ### Teaching Positions
+- Teaching Assistant, AM 10: Mathematical Methods for Engineers I, UC Santa Cruz, Winter 2020
 - Teaching Assistant, AM 129: Foundations of Scientific Computing, UC Santa Cruz, Fall 2019
 - Teaching Assistant, Math 151: Calculus 2, SDSU, Fall 2015-Spring 2017
 - Teaching Assistant, Math 141: Pre-Calculus, SDSU, Fall Spring 2015
