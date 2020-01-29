@@ -5,9 +5,7 @@ permalink: /research/
 ---
 
 ## Research Interests
-- Computational Fluid Dynamics
 - Discontinuous Galerkin methods
-- Finite Volume methods
 - Preconditioning techniques
 - Implicit time integration schemes
 - Gaussian Processes
