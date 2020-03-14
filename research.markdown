@@ -5,10 +5,9 @@ permalink: /research/
 ---
 
 ## Research Interests
-- Discontinuous Galerkin methods
-- Preconditioning techniques
-- Implicit time integration schemes
-- Gaussian Processes
+- [Discontinuous Galerkin methods](https://en.wikipedia.org/wiki/Discontinuous_Galerkin_method)
+- [Preconditioning techniques](https://en.wikipedia.org/wiki/Preconditioner)
+- [Implicit time integration schemes](https://en.wikipedia.org/wiki/Explicit_and_implicit_methods)
 
 ## Publications
 - Still working on it...
