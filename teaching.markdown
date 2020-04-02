@@ -7,10 +7,18 @@ permalink: /teaching/
 
 ## UC Santa Cruz
 
-### Winter 2019
+### Spring 2020
 #### AM 10: Mathematical Methods for Engineers I (Intro to Linear Algebra)
 
-I am currently TAing for [AM 10](https://canvas.ucsc.edu/courses/29489) and leading the following discussion sections:
+I am TA for AM 10 and lead the following discussion sections:
+- Section B: Wednesday 3-4pm
+- Section C: Thursday 3:30-4:30pm
+- Building: Remote
+
+### Winter 2020
+#### AM 10: Mathematical Methods for Engineers I (Intro to Linear Algebra)
+
+I TAed for [AM 10](https://canvas.ucsc.edu/courses/29489) and led the following discussion sections:
 - Section A: Monday 8-10pm
 - Section E: Thursday 7-9pm
 - Building: Social Sciences 1, Room 135
