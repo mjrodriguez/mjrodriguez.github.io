@@ -2,7 +2,7 @@
 layout: post
 title:  "Pushing Multiple Git Repos"
 date:   2019-10-18 11:16:19 -0700
-categories: git
+categories: slurm, supercomputer, gpu
 ---
 
 I am currently TAing the class [AM 129: Foundations of Scientific Computing](https://people.ucsc.edu/~dlee79/2019/fall/am129_209/index.html) and I need to grade code located in the student's git repo. Thus I came up with this script to add, commit, and push the students' grade all at once. This has saved me plenty of time!
