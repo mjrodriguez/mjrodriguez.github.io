@@ -33,7 +33,7 @@ I am currently a third year Ph.D. student in the [Department of Applied Mathemat
 - Omar George Mahshi Memorial Scholarship, University of California, Davis, 2010-2011
 
 ### Outreach and Volunteer
-- NSF Next Generation Scholars in Applied Math Mentor, UC Santa Cruz, Department of Applied Mathematics, Winter 2020 - Present
+- NSF Next Generation Scholars Mentor, UC Santa Cruz, Dept. of Applied Mathematics, Winter 2020 - Present
 - STEM Career Day Presenter, Ceiba College Preparatory Academy, Watsonville, 9 March 2018
 - Math and Physics Tutor, Barrio Logan College Institute, San Diego, 2013-2017
 - Math Tutor, King-Chavez Academy Middle School, San Diego, 2007-2013
