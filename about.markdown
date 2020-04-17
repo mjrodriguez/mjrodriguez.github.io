@@ -23,7 +23,7 @@ I am currently a third year Ph.D. student in the [Department of Applied Mathemat
 - Teaching Assistant, Math 141: Pre-Calculus, SDSU, Fall Spring 2015
 
 ### Skills
-- Languages: C, C++, Fortran, Python, Matlab.
+- Languages: C/C++, Fortran, Python, Matlab.
 - Scientific Computing: Cuda, OpenMP, MPI, *Eigen* Linear Algebra Package, LAPACK, BLAS, NumPy.
 - Version Control: Git.
 
