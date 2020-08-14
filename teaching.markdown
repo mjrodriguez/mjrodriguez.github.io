@@ -7,10 +7,22 @@ permalink: /teaching/
 
 ## UC Santa Cruz
 
+### Summer Session II
+### AM 20: Mathematical Methods for Engineers II (Intro to ODEs)
+
+I am currently TAing AM 20
+- Section A: Tuesday 5:00-6:30pm
+- Section B: Thursday 5:00-6:30pm
+- Office Hours: Wednesday 4:30-5:30pm
+
+All times in Pacific time zone.
+
+If you have any questions please feel free to email me at mrodrig6 at ucsc dot edu. The class syllabus and material can be accessed in the Canvas page.
+
 ### Spring 2020
 #### AM 10: Mathematical Methods for Engineers I (Intro to Linear Algebra)
 
-I am TA for AM 10 and lead the following discussion sections:
+I TAed for AM 10 and led the following discussion sections through Zoom:
 - Section B: Wednesday 3-4pm
 - Section C: Thursday 3:30-4:30pm
 - Building: Remote
