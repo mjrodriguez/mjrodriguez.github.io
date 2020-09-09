@@ -31,3 +31,8 @@ Here is a collection of links that [Yohann Dudouit](https://people.llnl.gov/dudo
     - `stall_pipe_busy` for Percentage of stalls occurring because a compute operation cannot be performed because the compute pipeline is busy
     - `stall_sync` for Percentage of stalls occurring because the warp is blocked at a `__syncthreads()` call
     - `stall_texture` for Percentage of stalls occurring because the texture sub-system is fully utilized or has too many outstanding requests
+
+- Other resources:
+    - [Memory vs. Compute bound](https://stackoverflow.com/questions/12811684/memory-bound-kernel-and-compute-bound-kernel-in-gpus)
+
+Last updated: 09/08/2020 (added memory vs. compute bound)
