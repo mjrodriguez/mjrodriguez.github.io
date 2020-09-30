@@ -7,6 +7,7 @@ categories: CUDA, GPU
 
 Here is a collection of links that [Yohann Dudouit](https://people.llnl.gov/dudouit1) provided to me when I began optimizing the Jacobian assembly kernel. 
 
+- What is a Roofline Model? [Click here to find out!](https://en.wikipedia.org/wiki/Roofline_model)
 - Some general optimization links:
     - [roofline model](https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9624-performance-analysis-of-gpu-accelerated-applications-using-the-roofline-model.pdf)
     - [Shared mem](http://developer.download.nvidia.com/GTC/PDF/1083_Wang.pdf)
@@ -35,4 +36,4 @@ Here is a collection of links that [Yohann Dudouit](https://people.llnl.gov/dudo
 - Other resources:
     - [Memory vs. Compute bound](https://stackoverflow.com/questions/12811684/memory-bound-kernel-and-compute-bound-kernel-in-gpus)
 
-Last updated: 09/08/2020 (added memory vs. compute bound)
+Last updated: 09/29/2020
