@@ -36,5 +36,6 @@ Here is a collection of links that [Yohann Dudouit](https://people.llnl.gov/dudo
 - Other resources:
     - [Memory vs. Compute bound](https://stackoverflow.com/questions/12811684/memory-bound-kernel-and-compute-bound-kernel-in-gpus)
     - [Basic GPU Optimization Strategies](https://www.paranumal.com/single-post/2018/02/26/basic-gpu-optimization-strategies)
+    - [Roofline Model LBNL](https://docs.nersc.gov/development/performance-debugging-tools/roofline/)
 
-Last updated: 10/12/2020
+Last updated: 11/16/2020
