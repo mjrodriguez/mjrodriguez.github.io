@@ -18,8 +18,8 @@ I am currently a third year Ph.D. student in the [Department of Applied Mathemat
 
 ### Teaching Positions
 - Teaching Assistant, AM 20: Mathematical Methods for Engineers II, UC Santa Cruz, Summer Session II 2020
-- Teaching Assistant, AM 10: Mathematical Methods for Engineers I, UC Santa Cruz, Winter 2020-Spring 2020
-- Teaching Assistant, AM 129: Foundations of Scientific Computing, UC Santa Cruz, Fall 2019
+- Teaching Assistant, AM 10: Mathematical Methods for Engineers I, UC Santa Cruz, Winter 2020-Spring 2020/2021
+- Teaching Assistant, AM 129: Foundations of Scientific Computing, UC Santa Cruz, Fall 2019/2020
 - Teaching Assistant, Math 151: Calculus 2, SDSU, Fall 2015-Spring 2017
 - Teaching Assistant, Math 141: Pre-Calculus, SDSU, Fall Spring 2015
 
@@ -39,4 +39,4 @@ I am currently a third year Ph.D. student in the [Department of Applied Mathemat
 - Math and Physics Tutor, Barrio Logan College Institute, San Diego, 2013-2017
 - Math Tutor, King-Chavez Academy Middle School, San Diego, 2007-2013
 
-Last updated: 7 April 2020
+Last updated: 4 January 2020

@@ -7,10 +7,27 @@ permalink: /teaching/
 
 ## UC Santa Cruz
 
-### Summer Session II
-### AM 20: Mathematical Methods for Engineers II (Intro to ODEs)
+### Winter 2021
+#### AM 10: Mathematical Methods of Engineers I (Introd to Linear Algebra)
 
-I am currently TAing AM 20
+I will be hosting following discussion sections:
+Section 1: Monday 11am-1pm
+Section 2: Tuesday 11am-1pm.
+
+I will also have office hours on:
+OH: Thursday 11am-1pm.
+
+All sessions will be remote. The zoom links are provided in the class Canvas page. Please feel free to email me if you have any questions.
+
+### Fall 2020
+#### AM 129: Foundations of Scientific Computing
+
+I was a teaching assistant for AM 129 in the Fall 2020. My role was to guide students through the mathematics, computing, and debugging aspects of homework.
+
+### Summer Session II
+#### AM 20: Mathematical Methods for Engineers II (Intro to ODEs)
+
+I was a teaching assistant for AM 20 during summer session II. Here are the sections I taught:
 - Section A: Tuesday 5:00-6:30pm
 - Section B: Thursday 5:00-6:30pm
 - Office Hours: Wednesday 4:30-5:30pm
