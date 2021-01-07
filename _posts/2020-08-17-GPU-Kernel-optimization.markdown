@@ -2,7 +2,7 @@
 layout: post
 title:  "Collection of CUDA Kernel Optimization Links"
 date:   2020-08-17 11:16:19 -0700
-categories: CUDA, GPU
+categories: CUDA GPU
 ---
 
 Here is a collection of links that [Yohann Dudouit](https://people.llnl.gov/dudouit1) provided to me when I began optimizing the Jacobian assembly kernel. 
