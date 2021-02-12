@@ -13,7 +13,7 @@ Modern high-performance computing is transitioning to be heavily reliant on GPU 
 
 **Figure 1** - Sierra Supercomputer at Lawrence Livermore National Laboratory. [Source](https://hpc.llnl.gov/sites/default/files/sierra-during-siting-cropped-LLNL.png). 
 
- In this transition, we have to look to methods that meet the constraints set forth by the GPUs such as small memory (*i.e.* NVidia Tesla V100 has 16 GB of memory) and perform optimally when there exists a high [arithmetic intensity](https://crd.lbl.gov/departments/computer-science/par/research/roofline/introduction/). We define high arithmetic intensity as the ratio of FLOPs per byte of memory. Therefore we need to look into methods that perform as many computations for every byte of memory that we transfer to the device. On the more physics side of scientific computing, there is also need for higher order methods to help reduce the numerical diffusiveness. To sumarize, here are the three criteria for choosing an algorithm to help us transition into modern high-performance computing:
+ In this transition, we have to look to methods that meet the constraints set forth by the GPUs such as small memory (*i.e.* NVidia Tesla V100 has 16 GB of memory) and perform optimally when there exists a high [arithmetic intensity](https://crd.lbl.gov/departments/computer-science/par/research/roofline/introduction/). We define high arithmetic intensity as the ratio of FLOPs per byte of memory. Therefore we need to look into methods that perform as many computations for every byte of memory that we transfer to the device. On the more physics side of scientific computing, there is also need for higher order methods to help reduce the numerical diffusiveness. To summarize, here are the three criteria for choosing an algorithm to help us transition into modern high-performance computing:
 
  1. Low memory footprint
  2. High arithmetic intensity
@@ -43,7 +43,7 @@ In order to precondition, then we usually need to form the *Jacobian* matrix. Al
 
 # Conclusion
 
-Looking back our initial goals then we have concluded that a matrix-free DG method will be best choice to satisfy our goal for high arithmetic intensiy as well as a high order method. However, nodal DG's memory footprint was too large and thus we needed to look for a sparser representation which led us to line DG. However, one issue that arises with impicit time integration is the need to precondition and most techniques rely on the construction of the Jacobian matrix which won't be necessasirily possible if we are in the matrix-free setting. 
+Looking back our initial goals then we have concluded that a matrix-free DG method will be best choice to satisfy our goal for high arithmetic intensity as well as a high order method. However, nodal DG's memory footprint was too large and thus we needed to look for a sparser representation which led us to line DG. However, one issue that arises with impicit time integration is the need to precondition and most techniques rely on the construction of the Jacobian matrix which won't be necessasirily possible if we are in the matrix-free setting. 
 
 # References
 
