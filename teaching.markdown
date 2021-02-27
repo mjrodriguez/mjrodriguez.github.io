@@ -7,8 +7,13 @@ permalink: /teaching/
 
 ## UC Santa Cruz
 
+### Spring 2021
+#### AM 213B: Numerical methods for Differential Equations
+
+TBA
+
 ### Winter 2021
-#### AM 10: Mathematical Methods of Engineers I (Introd to Linear Algebra)
+#### AM 10: Mathematical Methods of Engineers I (Intro to Linear Algebra)
 
 I will be hosting following discussion sections:
 Section 1: Monday 11am-1pm
