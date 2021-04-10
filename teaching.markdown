@@ -8,9 +8,15 @@ permalink: /teaching/
 ## UC Santa Cruz
 
 ### Spring 2021
-#### AM 213B: Numerical methods for Differential Equations
+#### AM 10: Mathematical Methods of Engineers I (Intro to Linear Algebra) 
 
-TBA
+I will be hosting the following sections:
+Tuesday/Thursday: 9:30-10:30am
+
+I will also host the following office hours:
+Monday/Wednesday: 2:00-3:00pm
+
+All sessions will be remote via Zoom. The Zoom links are provided in the class Canvas page. Please feel free to email if you have any questions.
 
 ### Winter 2021
 #### AM 10: Mathematical Methods of Engineers I (Intro to Linear Algebra)

@@ -38,4 +38,6 @@ Here is a collection of links that [Yohann Dudouit](https://people.llnl.gov/dudo
     - [Basic GPU Optimization Strategies](https://www.paranumal.com/single-post/2018/02/26/basic-gpu-optimization-strategies)
     - [Roofline Model LBNL](https://docs.nersc.gov/development/performance-debugging-tools/roofline/)
 
+The [MFEM](https://mfem.org/) team has recently written a nice little document containing many tips for optimizing GPU kernels in this [post](https://mfem.org/gpu-tips-n-tricks/).
+
 Last updated: 11/16/2020
