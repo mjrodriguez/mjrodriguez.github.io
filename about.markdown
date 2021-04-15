@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-I am currently a third year Ph.D. student in the [Department of Applied Mathematics](https://www.soe.ucsc.edu/departments/applied-mathematics). I am a [first generation college student](https://firstgen.ucsc.edu) (woot! woot!). I grew up in Tijuana/San Diego. I enjoy mountain biking, hiking, drinking coffee, eating tacos, eating Haribo gummy bears, and most recently rock climbing.
+I am currently a fourth year Ph.D. student in the [Department of Applied Mathematics](https://www.soe.ucsc.edu/departments/applied-mathematics). I am a [first generation college student](https://firstgen.ucsc.edu) (woot! woot!). I grew up in Tijuana/San Diego. I enjoy mountain biking, hiking, drinking coffee, eating tacos, eating Haribo gummy bears, and most recently rock climbing.
 
 ### Education
 - Applied Mathematics, Ph.D., University of California, Santa Cruz, Expected: 2022
@@ -36,7 +36,7 @@ I am currently a third year Ph.D. student in the [Department of Applied Mathemat
 ### Outreach and Volunteer
 - NSF Next Generation Scholars Mentor, UCSC, Dept. of Applied Math, Winter 2020-Present
 - STEM Career Day Presenter, Ceiba College Preparatory Academy, Watsonville, 9 March 2018
-- Math and Physics Tutor, Barrio Logan College Institute, San Diego, 2013-2017
-- Math Tutor, King-Chavez Academy Middle School, San Diego, 2007-2013
+- Math and Physics Tutor, [Barrio Logan College Institute](https://blci.org/), San Diego, 2013-2017
+- Math Tutor, [King-Chavez Academy Middle School](https://kingchavez.org/), San Diego, 2007-2013
 
 Last updated: 26 February 2021
