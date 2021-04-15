@@ -39,4 +39,4 @@ I am currently a fourth year Ph.D. student in the [Department of Applied Mathema
 - Math and Physics Tutor, [Barrio Logan College Institute](https://blci.org/), San Diego, 2013-2017
 - Math Tutor, [King-Chavez Academy Middle School](https://kingchavez.org/), San Diego, 2007-2013
 
-Last updated: 26 February 2021
+Last updated: 15 April 2021

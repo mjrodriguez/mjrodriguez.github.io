@@ -40,4 +40,4 @@ Here is a collection of links that [Yohann Dudouit](https://people.llnl.gov/dudo
 
 The [MFEM](https://mfem.org/) team has recently written a nice little document containing many tips for optimizing GPU kernels in this [post](https://mfem.org/gpu-tips-n-tricks/).
 
-Last updated: 11/16/2020
+Last updated: 4/11/2021 
