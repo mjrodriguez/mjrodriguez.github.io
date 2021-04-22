@@ -20,7 +20,7 @@ When I first began studying discontinuous Galerkin (DG) methods, I found myself 
 
 - **Nodal Points (nodes)**: Within each element, we have a set of nodes that are used to approximate the solution. In my experience, nodes are usually defined using [Gauss-Lobatto quadrature rule](https://en.wikipedia.org/wiki/Gaussian_quadrature#Gauss%E2%80%93Lobatto_rules). The number of nodes is $p+1$ where $p$ is the order of the approximating polynomial.
 
-- **Quadrature Points**: The quadrature points are also generated using Gauss-Lobatto rule. The number of quadrature points is one of the many tunable knobs of DG methods. If we let the number of nodes be equal to the number of quadrature points, *i.e.* $n_n = n_q$, then we have the popular nodal DG method. In this case you will always under-integrate but have a less quadrature points. However, we know that the quadrature is exact for polynomials of $2n-3$. Therefore a popular choice is quadrature points is $n_q = \frac{3}{2}n_n$. 
+- **Quadrature Points**: The quadrature points are also generated using Gauss-Lobatto rule. The number of quadrature points is one of the many tunable knobs of DG methods. If we let the number of nodes be equal to the number of quadrature points, *i.e.* $n_n = n_q$, then we have the popular nodal DG method. In this case you will always under-integrate but have a less quadrature points. However, we know that the quadrature is exact for polynomials of $2n-3$. A popular choice of quadrature points is $n_q = p+1$ which will integrate a polynomial of order $2p-1$ exactly. However, if you want to be handle quadratic nonlinearities in the flux function then $n_q = \frac{3}{2}(p+1)$ will be a perfect choice.
 
 - **Modal Solution**: The modal solution can be thought of as a sum of multiple waves with $p+1$ distinct frequencies and amplitudes. In other words it is given by $u(x,t) = \sum_{i = 0}^{p} \tilde{u}(t) \phi_i(x)$. The monomial expansion is one example of a modal representation and it is given by $\phi_i(x) = x^{i}$. 
 
@@ -28,4 +28,4 @@ When I first began studying discontinuous Galerkin (DG) methods, I found myself 
 
 - **Nodal vs Modal?**: Using the standard Vandermonde matrix then we can switch between a nodal and modal representations, $u = V\tilde{u}$. There is a pros and cons to each representation. However, modal expansion might not necessarily lead to an orthogonal basis, especially for high-orders. Check this [link](https://scicomp.stackexchange.com/questions/10094/discontinuous-galerkin-nodal-vs-modal-advantages-and-disadvantages) out for a brief discussion.
 
-Last updated: 2/26/2021
+Last updated: 21 April 2021
