@@ -11,9 +11,10 @@ permalink: /research/
 - [Deep learning](https://en.wikipedia.org/wiki/Deep_learning)
 
 ## Publications
-- Working progress!
+- Work in Progress!
 
 ## Presentations
+- "High-Order Preconditioners for Modern Computing Architecture: Line-Based DG on GPUs", UCSC, Slug CFD Team meeting, May 2021
 - "Line-Based Discontinuous Galerkin Method on GPUs", Lawrence Livermore National Lab, MFEM Group Meeting, Sept. 2019
 - "Globalizing Newton-Krylov Methods Using Line Searches", NASA Langley, Aug. 2018
 - "Computational Aspects of the Material Point Method", SDSU, May 2017
