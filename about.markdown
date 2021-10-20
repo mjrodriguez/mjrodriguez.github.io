@@ -12,13 +12,14 @@ I am currently a fourth year Ph.D. student in the [Department of Applied Mathema
 - Mechanical and Aerospace Engineering, B.S. University of California, Davis, Completed: 2013
 
 ### Research Positions
+- Computer Vision Intern, Magic Leap, Summer 2021, Mentors: Frank Steinbruecker / Mohan Kandra
 - NSF Graduate Intern, Lawrence Livermore National Laboratory, Summer 2019, Mentor: [Will Pazner](https://pazner.github.io)
 - Graduate Intern, NASA Langley, Summer 2018, Mentor: Kyle Thompson
 - Graduate Intern, Jet Propulsion Lab, Summer 2015, Mentor: Daniel Wernicke
 
 ### Teaching Positions
 - Teaching Assistant, AM 20: Mathematical Methods for Engineers II, UC Santa Cruz, Summer Session II 2020
-- Teaching Assistant, AM 10: Mathematical Methods for Engineers I, UC Santa Cruz, Winter 2020, Spring 2020, Winter 2021, Sprign 2021
+- Teaching Assistant, AM 10: Mathematical Methods for Engineers I, UC Santa Cruz, Winter 2020, Spring 2020, Winter 2021, Spring 2021
 - Teaching Assistant, AM 129: Foundations of Scientific Computing, UC Santa Cruz, Fall 2019, Fall 2020
 - Teaching Assistant, Math 151: Calculus 2, SDSU, Fall 2015-Spring 2017
 - Teaching Assistant, Math 141: Pre-Calculus, SDSU, Fall Spring 2015
@@ -39,4 +40,4 @@ I am currently a fourth year Ph.D. student in the [Department of Applied Mathema
 - Math and Physics Tutor, [Barrio Logan College Institute](https://blci.org/), San Diego, 2013-2017
 - Math Tutor, [King-Chavez Academy Middle School](https://kingchavez.org/), San Diego, 2007-2013
 
-Last updated: 15 April 2021
+Last updated: 19 October 2021
