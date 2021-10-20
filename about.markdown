@@ -12,10 +12,10 @@ I am currently a fourth year Ph.D. student in the [Department of Applied Mathema
 - Mechanical and Aerospace Engineering, B.S. University of California, Davis, Completed: 2013
 
 ### Research Positions
-- Computer Vision Intern, Magic Leap, Summer 2021, Mentors: Frank Steinbruecker / Mohan Kandra
-- NSF Graduate Intern, Lawrence Livermore National Laboratory, Summer 2019, Mentor: [Will Pazner](https://pazner.github.io)
-- Graduate Intern, NASA Langley, Summer 2018, Mentor: Kyle Thompson
-- Graduate Intern, Jet Propulsion Lab, Summer 2015, Mentor: Daniel Wernicke
+- Computer Vision Intern, [Magic Leap](https://www.magicleap.com/en-us), Summer 2021, Mentors: Frank Steinbruecker / Mohan Kandra
+- NSF Graduate Intern, [Lawrence Livermore National Laboratory](https://www.llnl.gov/), Summer 2019, Mentor: [Will Pazner](https://pazner.github.io)
+- Graduate Intern, [NASA Langley](https://www.nasa.gov/langley), Summer 2018, Mentor: Kyle Thompson
+- Graduate Intern, [Jet Propulsion Laboratory](https://www.jpl.nasa.gov/), Summer 2015, Mentor: Daniel Wernicke
 
 ### Teaching Positions
 - Teaching Assistant, AM 20: Mathematical Methods for Engineers II, UC Santa Cruz, Summer Session II 2020
