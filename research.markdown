@@ -14,6 +14,7 @@ permalink: /research/
 - Work in Progress!
 
 ## Presentations
+- "High-Order Preconditioners for Modern Computing Architecture: Line-Based DG on GPUs", UCSC, Advancement to Candidacy, July 2021
 - "High-Order Preconditioners for Modern Computing Architecture: Line-Based DG on GPUs", UCSC, Slug CFD Team meeting, May 2021
 - "Line-Based Discontinuous Galerkin Method on GPUs", Lawrence Livermore National Lab, MFEM Group Meeting, Sept. 2019
 - "Globalizing Newton-Krylov Methods Using Line Searches", NASA Langley, Aug. 2018
