@@ -8,7 +8,7 @@ permalink: /research/
 - [Discontinuous Galerkin methods](https://en.wikipedia.org/wiki/Discontinuous_Galerkin_method)
 - [Preconditioning techniques](https://en.wikipedia.org/wiki/Preconditioner)
 - [Implicit time integration schemes](https://en.wikipedia.org/wiki/Explicit_and_implicit_methods)
-- [Deep learning](https://en.wikipedia.org/wiki/Deep_learning)
+<!-- - [Deep learning](https://en.wikipedia.org/wiki/Deep_learning) -->
 
 ## Publications
 - Work in Progress!
