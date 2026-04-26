@@ -44,8 +44,9 @@ header_pages:
 theme: minima
 
 mathjax: true
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
